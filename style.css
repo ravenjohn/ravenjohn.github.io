@@ -1,0 +1,219 @@
+@font-face {
+	font-family: "Nexa Light";
+	src: url("fonts/NexaLight.woff");
+}
+@font-face {
+	font-family: "Nexa Bold";
+	src: url("fonts/NexaBold.woff");
+}
+*{
+	font-family: "Nexa Bold";
+	color: #FFF;
+}
+html,body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background: #4AABF5;
+	background: #FFF;
+}
+.clearfix{
+	clear: both;
+}
+header{
+	background: #4AABF5;
+	padding: 100px 0;
+	position: relative;
+}
+header div:first-child{
+	float: left;
+	text-align: left;
+	width: 35%;
+	font-size: 30px;
+	margin-left: 5%;
+	border-left: 10px solid #282C38;
+	padding-left: 35px;
+	margin-top: 30px;
+}
+header div:nth-child(2){
+	float: left;
+	width: 5%;
+}
+header div:nth-child(3){
+	margin-right: 5%;
+	float: right;
+	text-align: right;
+	width: 30%;
+	font-size: 20px;
+	font-family: "Nexa Light";
+}
+.name{
+	font-size: 37px;
+}
+.title{
+	font-family: "Nexa Light";
+}
+footer{
+	width: 100%;
+	background: #4AABF5;
+	text-align: center;
+	padding-top: 70px;
+	position: relative;
+}
+.contact, .email{
+	font-size: 25px;
+}
+.email{
+	text-decoration: none;
+	color: #000;
+}
+.icons{
+	margin: 50px 0 20px;
+	letter-spacing: 10px;
+}
+.copyright{
+	font-size: 15px;
+	line-height: 10px;
+}
+#mid{
+	background: red;
+	width: 100%;
+	height: 0;
+}
+.triangle::after {
+	content: " ";
+	position: absolute;
+	pointer-events: none;
+	left: 50%;
+	width: 50px;
+	height: 50px;
+	-webkit-transform: translateX(-50%) rotate(45deg);
+	transform: translateX(-50%) rotate(45deg);
+	bottom: -25px;
+	z-index: 10;
+	background: inherit;
+}
+section{
+	margin-top: -35px;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	padding-bottom: 60px;
+}
+section h3{
+	padding-top: 75px;
+	font-family: "Nexa Bold";
+	font-size: 35px;
+}
+#education-experience{
+	background: #282C38;
+}
+#skills-expertise{
+	background: #282C38;
+}
+#works{
+	background: #484F63;
+}
+.EaE{
+	font-family: "Nexa Bold";
+	color: #49A7F0;
+	font-size: 40px;
+	margin-right: 15px;
+}
+#exp{
+	margin: 0 auto;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+#exp td{
+	position: relative;
+	font-family: "Nexa Bold";
+	text-align: left;
+	font-size: 14px;
+	height: 50px;
+	margin: 0;
+	padding: 0;
+}
+#exp tr td:first-child{
+	line-height: 50px;
+	vertical-align: middle;
+	text-align: right;
+}
+#exp td div{
+	height: 100%;
+	margin: 0 10px;
+	float: right;
+	border-right: 1px solid #FFF;
+}
+.blue-text{
+	color: #4AABF5;
+}
+.bscs{
+	width: 560px;
+	background: #85C2F0;
+}
+.devteam{
+	width: 345px;
+	background: #6FB8EF;
+}
+.codemagnus{
+	width: 167px;
+	background: #4FA8EB;
+}
+.strat{
+	width: 75px;
+	background: #2897EB;
+	position: relative;
+}
+.strat2{
+	width: 18px;
+	border-right: none !important;
+	background: #2897EB;
+}
+.present{
+	position: absolute;
+	right: -25px;
+	bottom: -55px;
+}
+#screenshots{
+	height: 375px;
+	width: 100%;
+	background: #FFF;
+	position: relative;
+	margin-bottom: 60px;
+}
+.projname{
+	font-size: 35px;
+}
+#expertise{
+	width: 100%;
+}
+.blue-box{
+	background-image: url('imgs/bar-blue.png');
+	background-repeat: x-only;
+	width: 270px;
+	height: 14px;
+}
+.whole-circle{
+	overflow: hidden;
+	width: 145px;
+	height: 145px;
+	border-radius: 80px;
+	border: 5px solid #4AABF5;
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Nexa Light";
+	color: #999;
+	font-size: 40px;
+	line-height: 145px;	
+}
+.inner-circle{
+	position: absolute;
+	height: 30px;
+	width: 160px;
+	margin-top: -130px;
+	margin-left: 120px;
+	background: #282C38;
+	-webkit-transform: translateX(-50%) rotate(45deg);
+	transform: translateX(-50%) rotate(45deg);
+}

@@ -1,225 +1,27 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="Cache-control" content="public">
+		<meta name="viewport" content="width=device-width, user-scalable=no" />
 		<title>Raven Lagrimas</title>
-		<style type="text/css">
-			@font-face {
-				font-family: "Nexa Light";
-				src: url("fonts/NexaLight.woff");
-			}
-			@font-face {
-				font-family: "Nexa Bold";
-				src: url("fonts/NexaBold.woff");
-			}
-			*{
-				font-family: "Nexa Bold";
-				color: #FFF;
-			}
-			html,body{
-				margin: 0;
-				padding: 0;
-				width: 100%;
-				background: #4AABF5;
-				background: #FFF;
-			}
-			header{
-				background: #4AABF5;
-				height: 290px;
-				padding-top: 100px;
-				position: relative;
-			}
-			header table{
-				width: 90%;
-				margin: 0 auto;
-				border-collapse: collapse;
-			}
-			header table td{
-				text-align: center;
-			}
-			header table td:first-child{
-				text-align: left;
-				width: 40%;
-				font-size: 30px;
-			}
-			header table td:first-child div{
-				border-left: 10px solid #282C38;
-				padding-left: 35px;
-			}
-			header table td:last-child{
-				text-align: right;
-				width: 40%;
-				font-size: 20px;
-			}
-			.name{
-				font-size: 37px;
-			}
-			.intro{
-				font-family: "Nexa Light";
-			}
-			footer{
-				width: 100%;
-				background: #4AABF5;
-				text-align: center;
-				padding-top: 70px;
-				position: relative;
-			}
-			.contact, .email{
-				font-size: 25px;
-			}
-			.email{
-				text-decoration: none;
-				color: #000;
-			}
-			.icons{
-				margin: 50px 0 20px;
-				letter-spacing: 10px;
-			}
-			.copyright{
-				font-size: 15px;
-				line-height: 10px;
-			}
-			#mid{
-				background: red;
-				width: 100%;
-				height: 0;
-			}
-			.triangle::after {
-				content: " ";
-				position: absolute;
-				pointer-events: none;
-				left: 50%;
-				width: 50px;
-				height: 50px;
-				-webkit-transform: translateX(-50%) rotate(45deg);
-				transform: translateX(-50%) rotate(45deg);
-				bottom: -25px;
-				z-index: 10;
-				background: inherit;
-			}
-			section{
-				margin-top: -35px;
-				width: 100%;
-				position: relative;
-				text-align: center;
-				padding-bottom: 60px;
-			}
-			section h3{
-				padding-top: 75px;
-				font-family: "Nexa Bold";
-				font-size: 35px;
-			}
-			#education-experience{
-				background: #282C38;
-			}
-			#skills-expertise{
-				background: #282C38;
-			}
-			#works{
-				background: #484F63;
-			}
-			.EaE{
-				font-family: "Nexa Bold";
-				color: #49A7F0;
-				font-size: 40px;
-				margin-right: 15px;
-			}
-			#exp{
-				margin: 0 auto;
-				border-collapse: collapse;
-				border-spacing: 0;
-			}
-			#exp td{
-				position: relative;
-				font-family: "Nexa Bold";
-				text-align: left;
-				font-size: 14px;
-				height: 50px;
-				margin: 0;
-				padding: 0;
-			}
-			#exp tr td:first-child{
-				line-height: 50px;
-				vertical-align: middle;
-				text-align: right;
-			}
-			#exp td div{
-				height: 100%;
-				margin: 0 10px;
-				float: right;
-				border-right: 1px solid #FFF;
-			}
-			.blue-text{
-				color: #4AABF5;
-			}
-			.bscs{
-				width: 560px;
-				background: #85C2F0;
-			}
-			.devteam{
-				width: 345px;
-				background: #6FB8EF;
-			}
-			.codemagnus{
-				width: 167px;
-				background: #4FA8EB;
-			}
-			.strat{
-				width: 75px;
-				background: #2897EB;
-				position: relative;
-			}
-			.strat2{
-				width: 18px;
-				border-right: none !important;
-				background: #2897EB;
-			}
-			.present{
-				position: absolute;
-				right: -25px;
-				bottom: -55px;
-			}
-			#screenshots{
-				height: 375px;
-				width: 100%;
-				background: #FFF;
-				position: relative;
-				margin-bottom: 60px;
-			}
-			.projname{
-				font-size: 35px;
-			}
-			#expertise{
-				width: 100%;
-			}
-			.blue-box{
-				background-image: url('imgs/bar-blue.png');
-				background-repeat: x-only;
-				width: 270px;
-				height: 14px;
-			}
-		</style>
+		<link rel="stylesheet" href="style.css"/>
 	</head>
 	<body>
 	
 		<header class="triangle">
-			<table>
-				<tr>
-					<td>
-						<div>
-							<span class="name">Raven John M. Lagrimas</span>
-							<br />
-							WEB DEVELOPER
-						</div>
-					</td>
-					<td>
-						<img src="imgs/picture.png" alt="Raven Lagrimas" id="image" width="170px" height="170px"/>
-					</td>
-					<td class="intro">
-						Hi! Welcome to my portfolio. <br />
-						Lorem<br />
-					</td>
-				</tr>
-			</table>
+			<div>
+				<span class="name">Raven John M. Lagrimas</span>
+				<br />
+				<span class="title">WEB DEVELOPER</span>
+			</div>
+			<div>
+				<img src="imgs/picture.png" alt="Raven Lagrimas" id="image" width="170px" height="170px"/>
+			</div>
+			<div>
+				Hi! That's me on the middle. Passionate, competitive, serious and a nitpicker as a developer. Simple and minimalist as a designer. Loves hackathons and free and open source softwares.
+			</div>
+			<br class="clearfix"/>
 		</header>
 		
 		
@@ -264,7 +66,7 @@
 		
 		
 		<section class="triangle" id="works">
-			<h3><img src="imgs/pencil.png" alt="pencil"/> Works</h3>
+			<h3><img src="imgs/pencil.png" alt="pencil" width="73px" height="76px"/> Works</h3>
 			<div id="screenshots" class="triangle">
 			</div>
 			<span class="blue-text projname">LOREM IPSUM</span>
@@ -272,7 +74,7 @@
 		
 		
 		<section class="triangle" id="skills-expertise">
-			<h3><img src="imgs/cursor.png" alt="cursor"/> Skills and Expertise</h3>
+			<h3><img src="imgs/cursor.png" alt="cursor" width="51px" height="77px"/> Skills and Expertise</h3>
 			<table id="expertise">
 				<tr>
 					<td colspan="2">
@@ -288,13 +90,13 @@
 				<tr>
 					<td>PHP</td>
 					<td><div class="blue-box"></div></td>
-					<td rowspan="6"><img src="imgs/circle-bar.png" alt="CodeIgniter"/><br />CodeIgniter</td>
-					<td rowspan="6"><img src="imgs/circle-bar.png" alt="RubyOnRails"/><br />Ruby on Rails</td>
-					<td rowspan="3"><img src="imgs/mysql.png" alt="MySQL"/><br />MySQL</td>
-					<td rowspan="3"><img src="imgs/mongodb.png" alt="mongodb"/><br />MongoDB</td>
+					<td rowspan="6"><div class="whole-circle">100%</div><br />CodeIgniter</td>
+					<td rowspan="6"><div class="whole-circle">73%<div class="inner-circle"></div></div><br />Ruby on Rails</td>
+					<td rowspan="3"><img src="imgs/mysql.png" alt="MySQL" width="171px" height="73px"/><br />MySQL</td>
+					<td rowspan="3"><img src="imgs/mongodb.png" alt="mongodb" width="170px" height="73px"/><br />MongoDB</td>
 				</tr>
 				<tr>
-					<td>JavaScript</td>
+					<td>Vanilla JS</td>
 					<td><div class="blue-box"></div></td>
 				</tr>
 				<tr>
@@ -304,8 +106,8 @@
 				<tr>
 					<td>Parse</td>
 					<td><div class="blue-box"></div></td>
-					<td rowspan="3"><img src="imgs/oracle.png" alt="oracle"/><br />OracleDB</td>
-					<td rowspan="3"><img src="imgs/postgresql.png" alt="postgresql"/><br />PostgreSQL</td>
+					<td rowspan="3"><img src="imgs/oracle.png" alt="oracle" width="171px" height="73px"/><br />OracleDB</td>
+					<td rowspan="3"><img src="imgs/postgresql.png" alt="postgresql" width="170px" height="73px"/><br />PostgreSQL</td>
 				</tr>
 				<tr>
 					<td>Backbone</td>
@@ -324,11 +126,11 @@
 			<span class="contact">Contact me @</span>
 			<a target="_blank" href="mailto:rjlagrimas08@gmail.com" class="email">rjlagrimas08@gmail.com</a>
 			<div class="icons">
-				<a target="_blank" href="mailto:rjlagrimas08@gmail.com"><img src="imgs/insidepage_email_icon.png" alt="email"/></a>
-				<a target="_blank" href="//facebook.com/ven.lagrimas"><img src="imgs/insidepage_facebook_icon.png" alt="facebook"/></a>
-				<a target="_blank" href="//plus.google.com/u/0/+RavenJohnLagrimas"><img src="imgs/insidepage_plus_icon.png" alt="google plus"/></a>
-				<a target="_blank" href="//twitter.com/ravenlagrimas"><img src="imgs/insidepage_twitter_icon.png" alt="twitter"/></a>
-				<a target="_blank" href="//github.com/ravenjohn"><img src="imgs/github icon.png" alt="github"/></a>
+				<a target="_blank" href="mailto:rjlagrimas08@gmail.com"><img src="imgs/insidepage_email_icon.png" alt="email" width="27px" height="27px"/></a>
+				<a target="_blank" href="//facebook.com/ven.lagrimas"><img src="imgs/insidepage_facebook_icon.png" alt="facebook" width="27px" height="27px"/></a>
+				<a target="_blank" href="//plus.google.com/+RavenJohnLagrimas"><img src="imgs/insidepage_plus_icon.png" alt="google plus" width="27px" height="27px"/></a>
+				<a target="_blank" href="//twitter.com/ravenlagrimas"><img src="imgs/insidepage_twitter_icon.png" alt="twitter" width="27px" height="27px"/></a>
+				<a target="_blank" href="//github.com/ravenjohn"><img src="imgs/github icon.png" alt="github" width="27px" height="27px"/></a>
 			</div>
 			<span class="copyright">
 				Copyright 2013 Raven Lagrimas <br />
