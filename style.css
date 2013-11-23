@@ -14,8 +14,6 @@ html,body{
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	background: #4AABF5;
-	background: #FFF;
 }
 .clearfix{
 	clear: both;
@@ -59,6 +57,7 @@ footer{
 	text-align: center;
 	padding-top: 70px;
 	position: relative;
+	z-index: -1;
 }
 .contact, .email{
 	font-size: 25px;
@@ -90,7 +89,7 @@ footer{
 	-webkit-transform: translateX(-50%) rotate(45deg);
 	transform: translateX(-50%) rotate(45deg);
 	bottom: -25px;
-	z-index: 10;
+	z-index: 2;
 	background: inherit;
 }
 section{
@@ -106,12 +105,16 @@ section h3{
 	font-size: 35px;
 }
 #education-experience{
+	height: 3px;
 	background: #282C38;
+	z-index: -1;
 }
 #skills-expertise{
+	display: none;
 	background: #282C38;
 }
 #works{
+	display: none;
 	background: #484F63;
 }
 .EaE{
