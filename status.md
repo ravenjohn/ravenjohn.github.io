@@ -8,6 +8,7 @@ Work stuff
 
 
 ###Task queue
-
+* Catch mysql protocol sequence timeout
+* Save spam.tm results on database
 
 ###Done
