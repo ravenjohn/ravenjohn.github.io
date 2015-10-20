@@ -11,4 +11,3 @@ Work stuff
 
 
 ###Done
-* new spam channel indicators
