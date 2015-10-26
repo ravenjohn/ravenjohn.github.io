@@ -11,7 +11,6 @@ Work stuff
 * Add a script in master scripts for checking terminated channels if they are back
 * Search for a modern open CMS
 * Try MODX
-* Get all the transactions using email
 * Create the best web framework ever
     localization / internationalization
     caching of pages
