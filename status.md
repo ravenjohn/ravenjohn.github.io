@@ -3,7 +3,7 @@ Work stuff
 
 
 ###Currently doing
-* Get all transactions of paypal emails using the mac book
+* Get all transactions of paypal emails
 
 
 ###Task queue
