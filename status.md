@@ -3,7 +3,6 @@ Work stuff
 
 
 ###Currently doing
-* Spam.tm channel history endpoint
 
 
 ###Task queue
@@ -32,4 +31,5 @@ Work stuff
 ###Done
 * Get all transactions of paypal emails
     - currently running
+* Spam.tm channel history endpoint
 
