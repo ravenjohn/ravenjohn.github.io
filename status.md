@@ -3,7 +3,7 @@ Work stuff
 
 
 ###Currently doing
-*G et all
+* Get all transactions of paypal emails
 
 ###Task queue
 * Up CMS Logs on spam.tm server
