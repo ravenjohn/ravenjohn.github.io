@@ -3,8 +3,6 @@ Work stuff
 
 
 ###Currently doing
-* Get all transactions of paypal emails
-    - currently running
 
 
 ###Task queue
@@ -32,4 +30,6 @@ Work stuff
 
 
 ###Done
+* Get all transactions of paypal emails
+    - currently running
 
