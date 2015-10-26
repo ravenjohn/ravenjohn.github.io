@@ -3,7 +3,7 @@ Work stuff
 
 
 ###Currently doing
-*Get a
+*Get al
 
 ###Task queue
 * Up CMS Logs on spam.tm server
