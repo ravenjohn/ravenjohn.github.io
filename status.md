@@ -5,6 +5,7 @@ Work stuff
 ###Currently doing
 * Get all transactions of paypal emails
 
+
 ###Task queue
 * Spam.tm channel history endpoint
 * Up CMS Logs on spam.tm server
