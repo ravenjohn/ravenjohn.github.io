@@ -12,6 +12,7 @@ Work stuff
 * Search for a modern open CMS
 * Try MODX
 * Create the best web framework ever
+    websocket support
     ORM
     localization / internationalization
     caching of pages
