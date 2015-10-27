@@ -7,6 +7,7 @@ Work stuff
 
 ###Task queue
 * Up CMS Logs on spam.tm server
+    - waiting for Robert
 * Add a script in master scripts for scraping social links of a youtube channel
 * Add a script in master scripts for checking terminated channels if they are back
 * Search for a modern open CMS
