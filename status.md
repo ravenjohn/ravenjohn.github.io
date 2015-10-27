@@ -32,6 +32,7 @@ Work stuff
     4. List of indicators that got the most score
     5. Channels checked last 24 hours
     6. Channels checked last 7 days
+    - waiting for Luigi
 
 
 ###Done
