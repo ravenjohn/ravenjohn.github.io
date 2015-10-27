@@ -34,6 +34,6 @@ Work stuff
     5. Channels checked last 24 hours
     6. Channels checked last 7 days
     - waiting for Luigi
-
+* Fix kraken detection time
 
 ###Done
