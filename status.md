@@ -13,6 +13,7 @@ Work stuff
 * Try MODX
 * Create the best web framework ever
     file uploads
+    multi file uploads
     websocket support
     role-based access control
     ORM
