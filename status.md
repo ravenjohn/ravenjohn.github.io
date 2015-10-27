@@ -13,6 +13,7 @@ Work stuff
 * Try MODX
 * Create the best web framework ever
     websocket support
+    role-based access control
     ORM
     localization / internationalization
     caching of pages
