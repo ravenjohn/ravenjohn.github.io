@@ -12,6 +12,7 @@ Work stuff
 * Search for a modern open CMS
 * Try MODX
 * Create the best web framework ever
+    file uploads
     websocket support
     role-based access control
     ORM
