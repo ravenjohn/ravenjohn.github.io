@@ -3,6 +3,14 @@ Work stuff
 
 
 ###Currently doing
+* Stats page for spam.tm
+    1. Channels checked by spam.tm
+    2. Channels checked that were terminated and their average spam score
+    3. Channels with greater than 20% spam score
+    4. List of indicators that got the most score
+    5. Channels checked last 24 hours
+    6. Channels checked last 7 days
+    - waiting for Luigi
 
 
 ###Task queue
@@ -26,14 +34,6 @@ Work stuff
     server side rendering
     frontend that can still do single paged app even with server side rendered page
     server side optimizations
-* Stats page for spam.tm
-    1. Channels checked by spam.tm
-    2. Channels checked that were terminated and their average spam score
-    3. Channels with greater than 20% spam score
-    4. List of indicators that got the most score
-    5. Channels checked last 24 hours
-    6. Channels checked last 7 days
-    - waiting for Luigi
 * Fix kraken detection time
 
 ###Done
