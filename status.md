@@ -13,7 +13,7 @@ Work stuff
 * Try MODX
 * Create the best web framework ever
     clean routing
-    TD
+    TDD
     file uploads
     multi file uploads
     websocket support
