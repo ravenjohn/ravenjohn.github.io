@@ -6,8 +6,6 @@ Work stuff
 
 
 ###Task queue
-* Add a script in master scripts for scraping social links of a youtube channel
-    - I'll do it when I'm focusing on indicators
 * Add a script in master scripts for checking terminated channels if they are back
 * Up CMS Logs on spam.tm server
     - waiting for Robert
@@ -25,6 +23,8 @@ Work stuff
     server side rendering
     frontend that can still do single paged app even with server side rendered page
     server side optimizations
+* Add a script in master scripts for scraping social links of a youtube channel
+    - I'll do it when I'm focusing on indicators
 * Search for a modern open CMS
 * Try MODX
 
