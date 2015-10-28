@@ -27,6 +27,6 @@ Work stuff
     server side optimizations
 * Search for a modern open CMS
 * Try MODX
-* Fix kraken detection time
+
 
 ###Done
