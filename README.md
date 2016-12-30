@@ -1,8 +1,8 @@
-Hallo! I'm Raven, an overthinker, capable of zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Just to continue again before I sleep.
+Hallo! I'm Raven, an overthinker, capable of zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Only to continue thinking again before I sleep. I watch a lot of anime and play a lot of Dota 2.
 
 ### Work
 
-I'm a web developer and I mostly do: 
+I'm a web developer and I mostly do the following: 
 
 * RESTful APIs using node.js including database design
 * bots for browser automation using [phantomjs](http://phantomjs.org/)
