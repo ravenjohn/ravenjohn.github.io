@@ -1,4 +1,4 @@
-Hallo! I'm Raven, an overthinker, capable of zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said.
+Hallo! I'm Raven, an overthinker, capable of zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Just to continue again before I sleep.
 
 ### Work
 
@@ -11,7 +11,7 @@ I'm a web developer and I mostly do:
 
 Currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm). We do tools for YouTubers to grow. Check out [freedom.tm](http://www.freedom.tm), [spam.tm](http://freedom.tm), [upload.tm](http://upload.tm), and [Heartbeat](https://chrome.google.com/webstore/detail/heartbeat/aailiojlhjbichheofhdpcongebcgcgm?hl=en).
 
-I do know how to do front-end stuff but I don't like it due to its ultra fast metabolism. Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
+I do know how to do front-end stuff (backbone.js, Angular 2, etc..) but I don't like it due to its ultra fast metabolism. Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
 
 ### Achievements
 
@@ -32,7 +32,8 @@ I joined a lot of competitions during and after college and here are the things 
 - 2012
   - Get 1⁄4 the Pen and Paper Programming Contest 2012 1st Place
 
-### Social stuff
+* * * 
+
 I don't tweet much but here's my twitter, [@rvnjl](http://twitter.com/rvnjl). I will start blogging at [medium.com/@rvnjl](https://medium.com/@rvnjl). Oh, by the way, here's my github: [github.com/ravenjohn](https://github.com/ravenjohn)
 
 > Lastly, you can talk to me about anything. Just leave a message at rjlagrimas08@gmail.com
