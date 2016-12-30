@@ -1,4 +1,4 @@
-Hallo! I'm Raven, an overthinker, capable of lagging for a whole minute to think about every single possible thing that can happen because of one thing you said.
+Hallo! I'm Raven, an overthinker, capable of zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said.
 
 ### Work
 
