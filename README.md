@@ -1,7 +1,4 @@
-Raven John Lagrimas
-=====
-
-Hi! I'm a web developer. I love **JavaScript** and I mostly do: 
+Hallo! I love **JavaScript** and I mostly do: 
 
 * web services using node.js
 * bots for web automation using phantomjs
@@ -10,7 +7,4 @@ Hi! I'm a web developer. I love **JavaScript** and I mostly do:
 I'm currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm) as a full-time developer but I'm always open for oppurtunities. Hit me up at rjlagrimas08 at gmail.com
 
 ### Social stuff
-I don't tweet much but here's my twitter, [@rvnjl](http://twitter.com/rvnjl). I sometimes blog here [medium.com/rvnjl](https://medium.com/rvnjl).
-
-> Some awesome quote here
-> that makes you think I'm good
+I don't tweet much but here's my twitter, [@rvnjl](http://twitter.com/rvnjl). I sometimes blog at [medium.com/rvnjl](https://medium.com/rvnjl).
