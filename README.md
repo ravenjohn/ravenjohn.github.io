@@ -9,7 +9,7 @@ I'm a web developer and I mostly do the following:
 * Node.js libraries, see [@rvnjl](https://www.npmjs.com/~rvnjl) and [@anytv_npmjs](https://www.npmjs.com/~anytv_npmjs)
 * chrome extensions
 
-Currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm). We do tools for YouTubers to grow. Check out [freedom.tm](http://www.freedom.tm), [spam.tm](http://freedom.tm), [upload.tm](http://upload.tm), and [Heartbeat](https://chrome.google.com/webstore/detail/heartbeat/aailiojlhjbichheofhdpcongebcgcgm?hl=en).
+Currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm). We make tools to help YouTubers to grow. Check out [freedom.tm](http://www.freedom.tm), [spam.tm](http://freedom.tm), [upload.tm](http://upload.tm), and [Heartbeat](https://chrome.google.com/webstore/detail/heartbeat/aailiojlhjbichheofhdpcongebcgcgm?hl=en).
 
 I do know how to do front-end stuff (backbone.js, Angular 2, etc..) but I don't like it due to its ultra fast metabolism. Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
 
