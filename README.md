@@ -11,7 +11,8 @@ I'm a web developer and I mostly do the following:
 
 Currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm). We make tools to help YouTubers to grow. Check out [freedom.tm](http://www.freedom.tm), [spam.tm](http://freedom.tm), [upload.tm](http://upload.tm), and [Heartbeat](https://chrome.google.com/webstore/detail/heartbeat/aailiojlhjbichheofhdpcongebcgcgm?hl=en).
 
-I do know how to do front-end stuff (backbone.js, Angular 2, etc..) but I don't like it due to its ultra fast metabolism. Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
+I do front-end using backbone.js, Angular 2, or pure vanilla but I'm not really into it due to its ultra fast metabolism. Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
+
 
 ### Achievements
 
