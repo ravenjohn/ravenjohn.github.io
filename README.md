@@ -1,8 +1,8 @@
-Hallo! I'm Raven, an overthinker, capable of zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Only to continue thinking again before I sleep. I watch a lot of anime and play a lot of Dota 2.
+Hallo! I'm Raven, an overthinker, capable of zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Only to continue thinking again before I sleep.
 
 ### Work
 
-I'm a web developer and I mostly do the following: 
+I'm a full-stack web developer and I mostly do the following: 
 
 * RESTful APIs using node.js including database design
 * bots for browser automation using [phantomjs](http://phantomjs.org/)
@@ -11,7 +11,7 @@ I'm a web developer and I mostly do the following:
 
 Currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm). We make tools to help YouTubers grow. Check out [freedom.tm](https://www.freedom.tm), [spam.tm](http://spam.tm), [upload.tm](http://upload.tm), and [Heartbeat](https://chrome.google.com/webstore/detail/heartbeat/aailiojlhjbichheofhdpcongebcgcgm?hl=en).
 
-I do front-end using pure vanilla since I'm not really into frameworks due to their instablility. Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
+I do front-end using pure vanilla or Angular 2. Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
 
 
 ### Achievements
