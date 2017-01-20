@@ -1,4 +1,16 @@
-Hallo! I'm Raven, an overthinker, capable of zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Only to continue thinking again before I sleep.
+<script type="text/javascript">
+
+  var capabilities = [
+    'zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Only to continue thinking again before I sleep.',
+    'coding a whole project in my mind and typing everything non-stop.'
+  ];
+  
+  var rand = ~~(Math.random() * 100) % capabilities.length;
+
+  document.getElementById('capability').textContent = capabilities[rand];;
+
+</script>
+Hallo! I'm Raven, an overthinker, capable of <span id="capability"></span>
 
 ### Work
 
@@ -11,7 +23,7 @@ I'm a full-stack web developer and I mostly do the following:
 
 Currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm). We make tools to help YouTubers grow. Check out [freedom.tm](https://www.freedom.tm), [spam.tm](http://spam.tm), [upload.tm](http://upload.tm), and [Heartbeat](https://chrome.google.com/webstore/detail/heartbeat/aailiojlhjbichheofhdpcongebcgcgm?hl=en).
 
-I do front-end using pure vanilla or Angular 2. Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
+I do front-end using [VanillaJS](http://vanilla-js.com/) or [Angular 2](https://angular.io/). Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
 
 
 ### Achievements
