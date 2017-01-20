@@ -51,3 +51,4 @@ I joined a lot of competitions during and after college and here are the things 
 I don't tweet much but here's my twitter, [@rvnjl](http://twitter.com/rvnjl). I will start blogging at [medium.com/@rvnjl](https://medium.com/@rvnjl). Oh, by the way, here's my github: [github.com/ravenjohn](https://github.com/ravenjohn)
 
 > Lastly, you can talk to me about anything. Just leave a message at rjlagrimas08@gmail.com
+> I do freelancing ;)
