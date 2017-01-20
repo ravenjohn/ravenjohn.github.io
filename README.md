@@ -1,14 +1,15 @@
 <script type="text/javascript">
-
-  var capabilities = [
-    'zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Only to continue thinking again before I sleep.',
-    'coding a whole project in my mind and typing everything non-stop.'
-  ];
+  window.onload = function () {
   
-  var rand = ~~(Math.random() * 100) % capabilities.length;
+    var capabilities = [
+      'zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Only to continue thinking again before I sleep.',
+      'coding a whole project in my mind and typing everything non-stop.'
+    ];
 
-  document.getElementById('capability').textContent = capabilities[rand];;
+    var rand = ~~(Math.random() * 100) % capabilities.length;
 
+    document.getElementById('capability').textContent = capabilities[rand];
+  };
 </script>
 Hallo! I'm Raven, an overthinker, capable of <span id="capability"></span>
 
