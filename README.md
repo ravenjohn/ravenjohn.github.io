@@ -22,7 +22,7 @@ I'm a full-stack web developer and I mostly do the following:
 * Node.js libraries, see [@rvnjl](https://www.npmjs.com/~rvnjl) and [@anytv_npmjs](https://www.npmjs.com/~anytv_npmjs)
 * chrome extensions
 
-Currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm) and as [a freelancer](https://www.upwork.com/freelancers/~01c85b997c4d862268). We make tools to help YouTubers grow. Check out [freedom.tm](https://www.freedom.tm), [spam.tm](http://spam.tm), [upload.tm](http://upload.tm), and [Heartbeat](https://chrome.google.com/webstore/detail/heartbeat/aailiojlhjbichheofhdpcongebcgcgm?hl=en).
+Currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm) and as [a freelancer](https://www.upwork.com/freelancers/~01c85b997c4d862268). At Freedom, we make tools to help YouTubers grow. Check out [freedom.tm](https://www.freedom.tm), [spam.tm](http://spam.tm), [upload.tm](http://upload.tm), and [Heartbeat](https://chrome.google.com/webstore/detail/heartbeat/aailiojlhjbichheofhdpcongebcgcgm?hl=en).
 
 I do front-end using [VanillaJS](http://vanilla-js.com/) or [Angular 2](https://angular.io/). Also, I sometimes do web designs but they are not always great so I'm not focusing on it.
 
