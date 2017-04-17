@@ -32,16 +32,16 @@ I do front-end using [VanillaJS](http://vanilla-js.com/) or [Angular 2](https://
 I joined a lot of competitions during and after college and here are the things I proudly achieved:
 
 - 2016
-  - Webgeek Devcup 2016 3rd Place
+  - [Webgeek Devcup 2016 3rd Place](https://www.facebook.com/devcup/photos/a.173353399508667.1073741831.153993134778027/622464227930913/?type=3&theater)
 - 2014
   - AngelHack Manila Spring 2014 Finalists
-  - Webgeek Devcup 2014 3rd Place
+  - [Webgeek Devcup 2014 3rd Place](http://devcup.net/2014)
 - 2013
   - Get 1⁄4 the Pen and Paper Programming Contest Institute of Computer Science Edition 1st Place
   - ACM-ICPC (International Collegiate Programming Contest) Representative
-  - Bigas2Hack Best Consumer App
-  - Youphoric Labs SMS-API Hackathon 3rd Place
-  - Firefox OS Challenge for Students 1st Place
+  - [Bigas2Hack Best Consumer App](http://rice-hackathon.irri.org/winners)
+  - [Youphoric Labs SMS-API Hackathon 3rd Place](http://newsinfo.inquirer.net/506269/emergency-text-application-for-brgys-wins-hackathon)
+  - [Firefox OS Challenge for Students 1st Place](https://github.com/ravenjohn/damath)
   - Globe Labs Developer Day Hackathon 3rd Place
 - 2012
   - Get 1⁄4 the Pen and Paper Programming Contest 2012 1st Place
