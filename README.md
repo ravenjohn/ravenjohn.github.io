@@ -17,14 +17,15 @@ Hallo! I'm Raven, an overthinker, capable of <span id="capability"></span>
 
 I'm a full-stack web developer and I mostly do the following: 
 
+* Web games
 * RESTful APIs using node.js including database design
 * bots for browser automation using [phantomjs](http://phantomjs.org/)
-* Node.js libraries, see [@rvnjl](https://www.npmjs.com/~rvnjl) and [@anytv_npmjs](https://www.npmjs.com/~anytv_npmjs)
-* chrome extensions
+* Node.js libraries, see [@ravenjohn](https://www.npmjs.com/~ravenjohn)
+* Chrome extensions
 
-Currently working at [MCN Freedom Tech Inc.](https://www.freedom.tm). We make tools to help YouTubers grow. Check out [freedom.tm](https://www.freedom.tm), [spam.tm](http://spam.tm), [upload.tm](http://upload.tm), and [Heartbeat](https://chrome.google.com/webstore/detail/heartbeat/aailiojlhjbichheofhdpcongebcgcgm?hl=en).
+Currently working at [SplitmediaLabs Ltd.](http://splitmedialabs.com). We build tools for Content Creators, Players, eSports and more. Check out [player.me](https://player.me), [XSplit](https://www.xsplit.com/) and [Challonge](http://challonge.com).
 
-I do front-end using [VanillaJS](http://vanilla-js.com/) or [Angular 2](https://angular.io/).
+I do game development for the company and some other various things.
 
 
 ### Achievements
@@ -52,4 +53,4 @@ I don't tweet much but here's my twitter, [@rvnjl](http://twitter.com/rvnjl). I 
 
 [Checkout how](https://github.com/ravenjohn/ravenjohn.github.io) I easily did my website!
 
-> Lastly, you can talk to me about anything. I do freelancing. Just leave a message at rjlagrimas08@gmail.com <br/>
+> Lastly, you can talk to me about anything. Just leave a message at rjlagrimas08@gmail.com <br/>
