@@ -3,7 +3,7 @@
   
     var capabilities = [
       'zoning out for a whole minute to think about every single possible thing that can happen because of a single thing you said. Only to continue thinking again before I sleep.',
-      'coding a whole project in my mind and typing everything non-stop.'
+      'coding a whole project in my mind and typing everything non-stop.',
     ];
 
     var rand = ~~(Math.random() * 100) % capabilities.length;
@@ -17,16 +17,11 @@ Hallo! I'm Raven, an overthinker, capable of <span id="capability"></span>
 
 I'm a full-stack web developer and I mostly do the following: 
 
-* Web games
 * RESTful APIs using node.js including database design
-* bots for browser automation using [phantomjs](http://phantomjs.org/)
 * Node.js libraries, see [@ravenjohn](https://www.npmjs.com/~ravenjohn)
 * Chrome extensions
 
-Currently working at [SplitmediaLabs Ltd.](http://splitmedialabs.com). We build tools for Content Creators, Players, eSports and more. Check out [player.me](https://player.me), [XSplit](https://www.xsplit.com/) and [Challonge](http://challonge.com).
-
-I do game development for the company and some other various things.
-
+Currently working at [SplitmediaLabs Ltd.](http://splitmedialabs.com) as a consultant. We build tools for Content Creators, Players, Esports and more. Check out [player.me](https://player.me), [XSplit](https://www.xsplit.com/) and [Challonge](http://challonge.com).
 
 ### Achievements
 
@@ -49,7 +44,7 @@ I joined a lot of competitions during and after college and here are the things 
 
 * * * 
 
-I don't tweet much but here's my twitter, [@rvnjl](http://twitter.com/rvnjl). I blog at [medium.com/@rvnjl](https://medium.com/@rvnjl). Here's my github: [github.com/ravenjohn](https://github.com/ravenjohn)
+I don't tweet much but here's my twitter, [@rvnjl](http://twitter.com/rvnjl). I rarely blog at [medium.com/@rvnjl](https://medium.com/@rvnjl). Here's my github: [github.com/ravenjohn](https://github.com/ravenjohn)
 
 [Checkout how](https://github.com/ravenjohn/ravenjohn.github.io) I easily did my website!
 
